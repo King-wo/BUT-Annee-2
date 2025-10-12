@@ -21,3 +21,7 @@ node_modules/
 .DS_Store
 .vscode/
 .idea/
+*.zip
+*.dylib
+S1/SQL/machin.java/openJdk-24.jdk/Contents/Home/lib/src.zip
+S1/SQL/machin.java/openJdk-24.jdk/Contents/Home/lib/modules
