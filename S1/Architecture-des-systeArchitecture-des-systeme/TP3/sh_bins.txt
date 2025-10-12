@@ -1,0 +1,7 @@
+-r-xr-xr-x  1 root  wheel  1310208 25 sept. 09:03 bash
+-rwxr-xr-x  2 root  wheel  1091936 25 sept. 09:03 csh
+-rwxr-xr-x  1 root  wheel   274272 25 sept. 09:03 dash
+-r-xr-xr-x  1 root  wheel  2549488 25 sept. 09:03 ksh
+-rwxr-xr-x  1 root  wheel   101232 25 sept. 09:03 sh
+-rwxr-xr-x  2 root  wheel  1091936 25 sept. 09:03 tcsh
+-rwxr-xr-x  1 root  wheel  1361200 25 sept. 09:03 zsh

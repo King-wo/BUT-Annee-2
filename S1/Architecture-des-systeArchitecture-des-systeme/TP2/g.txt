@@ -1,0 +1,1 @@
+[P3] stdout redirigé vers g.txt (PID=1913, PPID=1911)

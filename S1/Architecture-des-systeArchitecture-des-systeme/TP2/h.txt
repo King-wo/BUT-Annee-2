@@ -1,0 +1,1 @@
+[P3] stderr redirigé vers h.txt (PID=1913, PPID=1911)
